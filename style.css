@@ -1,0 +1,26 @@
+img{
+    display: inline-block;
+    margin: 10px;
+    width: 320px;
+    height: 240px;
+}
+
+body{
+    background: orange;
+}
+
+video{
+    display: none;
+}
+
+#thecanvas{
+    display: none;
+}
+
+.grayscale {
+    filter: grayscale(1);
+}
+
+.sepia {
+    filter: sepia(1);
+}
